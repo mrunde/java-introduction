@@ -28,7 +28,7 @@ Beim Scrum (aus dem Englischen für Gedränge) wird in die Softwareentwicklung i
 * Reagieren auf Veränderung steht über dem Befolgen eines Plans
 Das heißt, obwohl wir die Werte auf der rechten Seite wichtig finden, schätzen wir die Werte auf der linken Seite höher ein.“
 
-### [Kanban](https://de.wikipedia.org/wiki/Kanban)
+### [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung))
 
 Kanban ist eine Methode zur Verwaltung der Aufgaben in einem Projekt. Dabei lässt sich die Methode wie folgt kurz zusammenfassen:
 
